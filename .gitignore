@@ -1,0 +1,16 @@
+# .gitignore
+
+.idea/
+
+# Ignore the virtual environment:
+venv/
+
+# Ignore compiled Python files:
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+
+# Ignore the zip file
+function.zip
